@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#111"/>
+  
+  <!-- Crown -->
+  <path d="M6 12 L10 7 L16 12 L22 7 L26 12 L26 15 L6 15 Z" fill="#f2c94c"/>
+  
+  <!-- Letter R -->
+  <text x="16" y="25" text-anchor="middle" font-size="14" font-family="Georgia, serif" fill="#f2c94c">
+    R
+  </text>
+</svg>
